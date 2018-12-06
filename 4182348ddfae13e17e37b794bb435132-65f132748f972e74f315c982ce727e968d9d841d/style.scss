@@ -1,0 +1,45 @@
+.settings {
+  display: flex;
+  justify-content: space-around;
+}
+.SetTimer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SetTimer-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Controls {
+  display: flex;
+  justify-content: center;
+}
+body{
+  background-color: green;
+}
+button{
+  background-color: #5A6351;
+  border: none;
+  margin: 10px;
+}
+.header-div{
+  height: 50px;
+  width: 800px;
+  background: #78AB46;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
